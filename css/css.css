@@ -17,7 +17,8 @@
 }
 body {
 	color: var(--dark);
-	background: var(--secondary);
+	/*background: var(--secondary);*/
+	background-image: linear-gradient(to right, #70e1f5,#ffd194);
 	font-family: 'Lato', sans-serif;
 }
 .ui.grid + .grid {
@@ -41,7 +42,8 @@ body::-webkit-scrollbar-thumb {
 /* Header */
 .main-header {
 	color: var(--white);
-	background: var(--blue);
+	background-image: linear-gradient(to right, #70e1f5,#ffd194);
+	/* background: var(--blue);*/
 	padding: 1.5rem 0;
 	text-align: center;
 }
