@@ -18,7 +18,8 @@
 body {
 	color: var(--dark);
 	/*background: var(--secondary);*/
-	background-image: linear-gradient(to right, #70e1f5,#ffd194);
+	/*background-image: linear-gradient(to right, #70e1f5,#ffd194);*/
+	background-image: url('https://r4.wallpaperflare.com/wallpaper/346/517/218/digital-art-artwork-illustration-environment-purple-background-hd-wallpaper-e09015a99f46aee3385f97f66bf67428.jpg');
 	font-family: 'Lato', sans-serif;
 }
 .ui.grid + .grid {
@@ -42,8 +43,9 @@ body::-webkit-scrollbar-thumb {
 /* Header */
 .main-header {
 	color: var(--white);
-	background-image: linear-gradient(to right, #70e1f5,#ffd194);
+	/*background-image: linear-gradient(to right, #70e1f5,#ffd194);*/
 	/* background: var(--blue);*/
+	background-image: url('https://r4.wallpaperflare.com/wallpaper/346/517/218/digital-art-artwork-illustration-environment-purple-background-hd-wallpaper-e09015a99f46aee3385f97f66bf67428.jpg');
 	padding: 1.5rem 0;
 	text-align: center;
 }
