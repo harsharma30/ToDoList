@@ -4,7 +4,6 @@
   <br>
   <hr>
   <br>
-
   <h1 align="center"><b>Smartphone View</b></h1>
  <p  align='center'> <img src="./Screenshot 2024-06-23 154527.png/"> </p>
   
